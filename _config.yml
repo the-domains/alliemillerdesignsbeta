@@ -1,7 +1,7 @@
 name: alliemillerdesignsbeta
 favicon: null
-layout_spectrum: 0.643074763705954
-typography_spectrum: 0.5107244672253728
+layout_spectrum: 0.51541
+typography_spectrum: 0.87958
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3083285642787814
-  lightness: 0.13373422087170184
-  saturation: 0.2011571058537811
-  rhythmicContrast: 0.8905873999465257
+    - '#d3d4d8'
+    - '#7e9fba'
+    - '#f55e20'
+    - '#f4d330'
+    - '#563930'
+  brandStrength: 0.1875
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
